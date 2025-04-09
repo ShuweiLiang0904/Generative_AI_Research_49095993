@@ -1,6 +1,6 @@
 # Generative AI Research Project  
 ## Project Overview  
-This repository hosts materials for the research study **"Generative AI Tools: Boon or Bane?"**, including literature reviews, datasets, analysis scripts, and collaborative documentation.  
+This repository hosts materials for the research study **"Generative AI Tools"**, including literature reviews, datasets, analysis scripts, and collaborative documentation.  
 
 ## Repository Structure  
 - **`/Literature_Review`**: Journal articles, conference papers, and related publications.  
