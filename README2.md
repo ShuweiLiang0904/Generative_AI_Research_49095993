@@ -16,4 +16,4 @@ This repository hosts materials for the research study **"Generative AI Tools"**
 ### Contributing to the Project  
 1. **Clone the repository**:  
    ```bash  
-   git clone https://github.com/your-username/Generative_AI_Research_SID.git
+   git clone https://github.com/ShuweiLiang/Generative_AI_Research_49095993.git
